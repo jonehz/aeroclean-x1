@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
     },
 
     sitemap:
-      "https://YOUR_DOMAIN.vercel.app/sitemap.xml",
+      "https://aeroclean-x1.vercel.app/",
   };
 }
